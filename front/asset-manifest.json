@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/static/css/main.efb17368.css",
+    "main.js": "/static/js/main.55543015.js",
+    "static/js/787.edf3dfe5.chunk.js": "/static/js/787.edf3dfe5.chunk.js",
+    "static/media/logoAzul.png": "/static/media/logoAzul.d6ee9468eefd7de875d5.png",
+    "static/media/login.jpg": "/static/media/login.bac0a4e50f562db9ce84.jpg",
+    "static/media/logo.png": "/static/media/logo.e84008aaa4062dba2d86.png",
+    "static/media/13.jpg": "/static/media/13.f6c898e5666e157ab768.jpg",
+    "static/media/1.jpg": "/static/media/1.bb5323e507ab431de3b9.jpg",
+    "static/media/01.jfif": "/static/media/01.36c864ad77a40fc30eb4.jfif",
+    "static/media/03.jfif": "/static/media/03.ef697ae899037c2762b0.jfif",
+    "index.html": "/index.html",
+    "main.efb17368.css.map": "/static/css/main.efb17368.css.map",
+    "main.55543015.js.map": "/static/js/main.55543015.js.map",
+    "787.edf3dfe5.chunk.js.map": "/static/js/787.edf3dfe5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.efb17368.css",
+    "static/js/main.55543015.js"
+  ]
+}
